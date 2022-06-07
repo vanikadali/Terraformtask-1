@@ -13,7 +13,7 @@ provider "aws" {
 
  tags = { 
 
-    Name = "my-first-tf-node"
+    Name = "Code-pipe-line"
 
    } 
 
